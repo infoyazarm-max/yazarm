@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root{color-scheme:dark;font-family:Inter,system-ui,sans-serif;background:#14110D;color:#C9C1B2;font-synthesis:none;text-rendering:optimizeLegibility}
+*{box-sizing:border-box}html{scroll-behavior:smooth;scroll-padding-top:90px}body{margin:0;min-width:320px;background:#14110D}a{-webkit-tap-highlight-color:transparent}::selection{background:#C6A24A;color:#14110D}
+.gilded-text{background-image:linear-gradient(100deg,#A8801F 0%,#E6CE8C 30%,#F7EBC6 50%,#E6CE8C 70%,#A8801F 100%);-webkit-background-clip:text;background-clip:text;color:transparent}.hairline-gold{background:linear-gradient(90deg,transparent,rgba(217,182,92,.7),transparent)}.gilded-glow{background:radial-gradient(circle at 50% 30%,rgba(198,162,74,.16),transparent 62%)}
+.marble-surface{background-color:#14110D;background-image:linear-gradient(rgba(20,17,13,.7),rgba(20,17,13,.78)),url('https://media.base44.com/images/public/6ada3a7e9dcf52813bc7a515/e6e7f1b6c_generated_image.png');background-size:cover;background-position:center}.marble-surface-warm{background-color:#17130F;background-image:linear-gradient(rgba(23,19,15,.8),rgba(23,19,15,.82)),url('https://media.base44.com/images/public/6ada3a7e9dcf52813bc7a515/cc981cdd3_generated_image.png');background-size:cover;background-position:center}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important}}
